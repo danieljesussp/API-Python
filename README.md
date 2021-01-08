@@ -62,7 +62,7 @@ Directorios a tener en cuenta:
 - API for a Web Application
 - API for a Mobile Application
 
-## Configuración
+## Configuración:
 
 ```bash
 npm install -g serverless
